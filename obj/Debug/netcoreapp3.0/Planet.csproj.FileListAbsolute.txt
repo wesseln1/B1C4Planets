@@ -1,0 +1,11 @@
+C:\Users\OWNER\workspace\CSharpPrac\Planet\obj\Debug\netcoreapp3.0\Planet.csprojAssemblyReference.cache
+C:\Users\OWNER\workspace\CSharpPrac\Planet\obj\Debug\netcoreapp3.0\Planet.AssemblyInfoInputs.cache
+C:\Users\OWNER\workspace\CSharpPrac\Planet\obj\Debug\netcoreapp3.0\Planet.AssemblyInfo.cs
+C:\Users\OWNER\workspace\CSharpPrac\Planet\bin\Debug\netcoreapp3.0\Planet.exe
+C:\Users\OWNER\workspace\CSharpPrac\Planet\bin\Debug\netcoreapp3.0\Planet.deps.json
+C:\Users\OWNER\workspace\CSharpPrac\Planet\bin\Debug\netcoreapp3.0\Planet.runtimeconfig.json
+C:\Users\OWNER\workspace\CSharpPrac\Planet\bin\Debug\netcoreapp3.0\Planet.runtimeconfig.dev.json
+C:\Users\OWNER\workspace\CSharpPrac\Planet\bin\Debug\netcoreapp3.0\Planet.dll
+C:\Users\OWNER\workspace\CSharpPrac\Planet\bin\Debug\netcoreapp3.0\Planet.pdb
+C:\Users\OWNER\workspace\CSharpPrac\Planet\obj\Debug\netcoreapp3.0\Planet.dll
+C:\Users\OWNER\workspace\CSharpPrac\Planet\obj\Debug\netcoreapp3.0\Planet.pdb
